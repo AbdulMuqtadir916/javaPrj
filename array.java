@@ -53,6 +53,7 @@ public class array {
                 }
                  System.out.print(" ");
             }
+            
             System.out.println(" ");
 
         }
